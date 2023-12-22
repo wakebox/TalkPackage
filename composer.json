@@ -1,0 +1,18 @@
+{
+    "name": "one2three4/talk",
+    "description": "messages with users",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "One2Three4\\Talk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wilson",
+            "email": "wilson_chu@newsoft.com.tw"
+        }
+    ],
+    "require": {}
+}
